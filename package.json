@@ -1,0 +1,20 @@
+{
+  "name": "lr-filters",
+  "version": "0.1.0",
+  "main": "lr-filters.php",
+  "author": "laboradian",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-wordpress": "^2.0.0"
+  },
+  "description": "",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {}
+}
