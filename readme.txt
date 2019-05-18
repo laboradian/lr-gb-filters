@@ -1,4 +1,4 @@
-=== Lr Filters ===
+=== Laboradian Gutenberg Filters ===
 Contributors: laboradian
 Donate link: https://laboradian.com/
 Tags:

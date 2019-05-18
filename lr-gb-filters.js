@@ -53,6 +53,6 @@ function convertUrlToRelative( urlString ) {
 
 wp.hooks.addFilter(
 	'blocks.getSaveElement',
-	'lr-filters/convert-image-url-to-relative',
+	'lr-gb-filters/convert-image-url-to-relative',
 	convertImageUrlToRelative
 );

@@ -1,4 +1,4 @@
-Lr Filters
+Laboradian Gutenberg Filters
 ===========
 
 汎用的なフィルタ処理を行うWordPressプラグイン

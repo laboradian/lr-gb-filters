@@ -1,7 +1,7 @@
 {
-  "name": "lr-filters",
+  "name": "lr-gb-filters",
   "version": "0.1.0",
-  "main": "lr-filters.php",
+  "main": "lr-gb-filters.php",
   "author": "laboradian",
   "devDependencies": {
     "eslint": "^5.16.0",
