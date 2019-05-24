@@ -12,14 +12,14 @@ function convertImageUrlToRelative( element, blockType, attributes ) {
 		return element;
 	}
 
-	const images = element.props.children.props.children;
-
 	if ( 'undefined' === typeof element.props ||
 			'undefined' === typeof element.props.children ||
 			'undefined' === typeof element.props.children.props ||
 			'undefined' === typeof element.props.children.props.children ) {
 		return element;
 	}
+
+	const images = element.props.children.props.children;
 
 	if ( Array.isArray( images ) ) {
 		images.forEach( function( elm ) {
